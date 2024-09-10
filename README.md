@@ -1,7 +1,3 @@
-Based on the additional details and code snippets you've provided, here’s an updated version of the README file that is tailored to your project:
-
----
-
 # Django REST API for User Profiles and Feed Management
 
 This repository contains a Django REST API project designed for managing user profiles and profile feed items. The project is built with Django and Django REST Framework (DRF) and includes a range of features, such as user authentication, CRUD operations, and more.
